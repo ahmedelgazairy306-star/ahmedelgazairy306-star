@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm <b>Ahmed Elgazairy</b>, <b>Cyber Security Student</b> at <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Arab Academy for Science and Technology</b>, Egypt 🇪🇬. </p>
+<p>Welcome to my page! </br> I'm <b>Ahmed Elgazairy</b>, <b>Cyber Security Student</b> at <b>Arab Academy for Science and Technology</b>, Egypt 🇪🇬. </p>
 
 <h3>🛠️ Things I code with</h3>
 <p>
